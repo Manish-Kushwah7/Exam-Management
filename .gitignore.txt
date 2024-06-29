@@ -1,15 +1,11 @@
-Netbeans/exam/build/web/WEB-INF/
 
-*delete.css
-*showall.css
-*ant-deploy.xml
-*WEB-INF/web.xml
-*delete.css
-*showall.css
-*servlet1/
- */.gitattributes.txt
-     */.gitignore.txt
-      */Netbeans/
-     */servlet1/123456
-    */servlet1/123456.pub
-  */servlet1/Student-Management-/
+*.gitignore
+*maven-wrapper.properties
+*mvnw
+*mvnw.cmd
+*pom.xml
+*ServletInitializer.java
+*SpringWebMvcProduct3Application.java
+*application.properties
+*SpringWebMvcProduct3ApplicationTests.java
+
